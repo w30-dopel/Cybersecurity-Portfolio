@@ -9,7 +9,7 @@ I acted as a security professional at a large organization, primarily working wi
 ## Project Components
 This project folder contains:
 
-- **Linux_Permissions_Management.pdf**: A comprehensive document showing:
+- **Linux_File_Permissions.pdf**: A comprehensive document showing:
   - Commands used to examine file permissions
   - Explanations of permission interpretation
   - Step-by-step process of modifying permissions
