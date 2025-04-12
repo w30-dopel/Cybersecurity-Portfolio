@@ -57,6 +57,6 @@ Assessment of the recovery process for affected systems and recommendations for 
 - Incident response procedures
 
 
-The **NIST_CSF_Reference_Guide.pdf** file used in this incident response analysis is available in the [reference-documents](./reference-documents) folder.
+*The **NIST_CSF_Reference_Guide.pdf** file used in this incident response analysis is available in the [reference-documents](./reference-documents) folder.*
 
 This project showcases my ability to analyze security incidents using industry-standard frameworks and develop comprehensive response strategies that address both immediate technical needs and long-term security improvements.
