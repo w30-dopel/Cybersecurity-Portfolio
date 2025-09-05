@@ -1,9 +1,12 @@
 # Cybersecurity-Portfolio
 
 ## About Me
-Hello, I'm Derek Opel, a detail-oriented and passionate cybersecurity analyst with a recent completion of the Google Cybersecurity Professional Certificate. I find deep purpose in protecting organizations along with the people it serves from risks, threats, and vulnerabilities while ensuring confidentiality, integrity, and availability of sensitive information. 
 
-My analytical mindset and continuous learning approach position me to contribute effectively to security operations from day one while growing with your organization's evolving needs.
+### 👋 Hi, I’m Derek Opel
+
+I am a Computer Scientist with 5 years of DoD experience, now pivoting into **System Administration and Cybersecurity**. I hold the **CompTIA Security+** and **Google Cybersecurity Professional Certificate**, which complement my background in **Python, Linux, and automation scripting**.
+
+My goal is to apply my **technical skills and government background** in a **System Administrator role**, while continuing to deepen my cybersecurity expertise and contribute to secure IT operations.
 
 ## Resume
 View my full resume [here](./Derek_Opel_Resume.pdf).
@@ -65,7 +68,6 @@ This portfolio contains various projects demonstrating my cybersecurity skills a
 - **Email**: dopel3030@gmail.com
 - **Phone**: (619) 241-1055
 - **LinkedIn**: [linkedin.com/in/derek-opel](https://linkedin.com/in/derek-opel)
-- **GitHub**: [https://github.com/w30-dopel/Cybersecurity-Portfolio](https://github.com/w30-dopel/Cybersecurity-Portfolio)
 
 ---
 
