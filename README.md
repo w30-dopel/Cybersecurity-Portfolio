@@ -68,7 +68,6 @@ This portfolio contains various projects demonstrating my cybersecurity skills a
 - **Email**: dopel3030@gmail.com
 - **Phone**: (619) 241-1055
 - **LinkedIn**: [linkedin.com/in/derek-opel](https://linkedin.com/in/derek-opel)
-- **GitHub**: [https://github.com/w30-dopel/Cybersecurity-Portfolio](https://github.com/w30-dopel/Cybersecurity-Portfolio)
 
 ---
 
