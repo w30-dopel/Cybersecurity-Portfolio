@@ -4,9 +4,9 @@
 
 ### 👋 Hi, I’m Derek Opel
 
-I am a Computer Scientist with 5 years of DoD experience, now pivoting into **System Administration and Cybersecurity**. I hold the **CompTIA Security+** and **Google Cybersecurity Professional Certificate**, which complement my background in **Python, Linux, and automation scripting**.
+I am a Computer Scientist with 5 years of DoD experience, now pivoting into **IT Support / Help Desk**. I hold the **CompTIA Security+** and **Google Cybersecurity Professional Certificate**, which complement my background in **Python, Linux, and automation scripting**.
 
-My goal is to apply my **technical skills and government background** in a **System Administrator role**, while continuing to deepen my cybersecurity expertise and contribute to secure IT operations.
+My goal is to apply my **technical skills and government background** in a **IT Support role**, while continuing to deepen my cybersecurity expertise and contribute to secure IT operations.
 
 ## Resume
 View my full resume [here](./Derek_Opel_Resume.pdf).
